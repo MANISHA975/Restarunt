@@ -1,0 +1,301 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-color: #ffffff;
+    height: 70vh;
+    padding: 10px;
+    
+}
+.heading1{
+    color: #918a91;
+    font-size: 20px;
+    font-family: "Roboto";
+    padding: 10px;
+}
+.img1{
+    height: 250px;
+    width: 250px;
+}
+.but1{
+    color: #000000;
+    border-radius: 8px;
+    margin: 10px;
+    height: 30px;
+    width: 150px;
+    border: 0px;
+}
+.but2{
+    color: #ffffff;
+    background-color: orange;
+    border-radius: 8px;
+    margin: 10px;
+    height: 30px;
+    width: 150px;
+    border: 0px;
+}
+.heading2{
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #000000;
+    font-size: 30px;
+    padding: 7px;
+    
+}
+.heading3{
+    font-family: "Roboto";
+    font-weight: bold;
+    color: orange;
+    font-size: 30px;
+    padding: 2px;
+}
+.para1{
+    color: #918a91;
+    font-size: 20px;
+    font-family: "Roboto";
+    padding: 5px;
+}
+.img2{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 14px;
+}
+.small-head{
+    font-size: 18px;
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+.first-head{
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 10px;
+}
+.second-head{
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+}
+.third-head{
+    color: orange;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
+.fourth-head{
+    color: red;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
+.bg1-container{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #707070;
+    height: 300px;
+    width: 200px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.img3{
+    height: 80px;
+    width: 80px;
+    padding: 7px;
+}
+.para4{
+    color: #707070;
+    font-size: 12px;
+    font-family: "Roboto";
+    margin: 5px;
+    padding: 10px;
+}
+.para5{
+    color: orange;
+    font-size: 13px;
+}
+.second-bg-container{
+    background-color: antiquewhite;
+    height: 50vh;
+    text-align: center;
+    padding: 20px;
+    
+}
+.burger-img{
+    height: 270px;
+    width: 400px;
+    margin: 40px;
+    border-radius: 7px;
+}
+.burger2-image{
+    height: 250px;
+    width: 250px;
+    margin: 35px;
+    border-radius: 7px;
+}
+.orange-background-container{
+    background-color: red;
+    height: 500px;
+    width: 750px;
+}
+.orange-head{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
+.paragraph{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Roboto";
+    text-align: center;
+    margin: 10px;
+}
+.chicken-burger{
+    height: 500px;
+    width: 750px;
+}
+.client-info{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #707070;
+    height: 200px;
+    width: 500px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.star-img{
+    height: 40px;
+    width: 40px;
+}
+.our-container{
+    background-color:lightgoldenrodyellow;
+    height: 130vh;
+}
+.our-container-image{
+    height: 400px;
+    width: 500px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    margin: 30px;
+    
+}
+.white-container{
+    background-color: #ffffff;
+    height: 80vh;
+    padding: 30px;
+    margin: 30px;
+}
+.book-heading{
+    color: black;
+    font-size: 30px;
+}
+.book-para{
+    color: #918a91;
+    font-size: 17px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+.location-image{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+.book-container{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #707070;
+    height: 630px;
+    width: 500px;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 30px;
+    border-radius: 12px;
+   
+    
+}
+.name-heading{
+    color: black;
+    font-size: 15px;
+    font-family: "Roboto";
+    padding: 5px;
+    text-align: start;
+    font-weight: bold;
+}
+.text-input{
+    border-width: 1px;
+    border-radius: 12px;
+    border-color: #918a91;
+    text-align: center;
+    margin: 10px;
+}
+.text-input1{
+    border-width: 2px;
+    border-style: solid;
+    border-color: #707070;
+    height: 200px;
+    width: 400px;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+
+}
+.insta-continer{
+    background-color: antiquewhite;
+    
+    padding: 30px;
+}
+.insta-heading{
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+.insta-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 14px;
+    padding: 10px;
+}
+.insta-image-small{
+    height: 150px;
+    width: 150px;
+    border-radius: 14px;
+    padding: 14px;
+    border-radius: 14px;
+}
+.rest-container{
+    padding: 20px;
+    background-color: #ffffff;
+}
+.feedback-page{
+    font-family: "Roboto";
+    font-size: 19px;
+    color: black;
+    font-weight: bold;
+    margin: 30px;
+}
+.feedback-para{
+    color: #918a91;
+    font-family: "Roboto";
+    font-size: 17px;
+    list-style-type: none;
+}
